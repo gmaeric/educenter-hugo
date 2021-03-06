@@ -1,32 +1,36 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# post thumbnail
-image: "images/blog/post-1.jpg"
-# post author
-author: "John Doe"
-# taxonomy
-categories: ["Deep Learning"]
-tags: ["AI", "Automation"]
-# type
-type: "post"
+title: Advantages Of LED Street Light
+date: 
+bg_image: ''
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
+image: "/images/advantages-of-led-street-light.jpg"
+author: ''
+categories:
+- solar lighting
+tags:
+- LED lamp
+- solar lighting
+type: post
+
 ---
+### Advantages Of LED Street Light
 
-### The standard Lorem Ipsum passage, used since the 1500s
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
-
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
-
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+1, LED street light characteristics, light, no light diffusion, ensure light efficiency;  
+2, LED street light has a unique optical design of the two, the LED street light irradiation to the desired lighting area, further improve the efficiency of light, in order to achieve the purpose of energy conservation;  
+3, LED light source efficiency has reached 100lm/W, but there is still much room for development, the theoretical value of 250lm/W. The luminous efficiency of high pressure sodium lamp is only increased with the increase of the power, therefore, the overall optical efficiency of LED lamp is better than high voltage sodium lamp is strong;  
+4, LED street light color is much higher than that of high pressure sodium lamp, high pressure sodium lamp color index is only about 23, while the LED lamp color index reached more than 75, from the point of view of visual psychology, achieve the same brightness, illumination LED lamp can average 20% lower than high pressure sodium (with reference to the British standard lighting principle);  
+One  
+5, LED street light a small decline, a year decline of less than 3%, 10 years still reached the road illumination requirements, and high pressure sodium lamp failure, a year has decreased by more than 30%, therefore, LED lamps used in the design of power can be lower than high pressure sodium lamp;  
+6, LED street light with automatic control energy saving device, can meet the requirements of lighting in different periods of time to reduce the maximum possible power, save energy;  
+7, the LED is a low voltage driving device, single LED safe voltage, series of single LED power is 1 watts, so it is safer than the use of high voltage power supply, especially suitable for public places (such as street lighting, industrial lighting, automotive lighting, lighting and other people);  
+8, each unit LED chip is only a small volume, so it can be prepared into various shapes of the device, and suitable for volatile environment.  
+9, long life: can use more than 50 thousand hours, provide quality assurance for three years.  
+10, high light efficiency by more than 100LM above the chip, compared with the traditional high pressure sodium lamp can save 75%.  
+11, the installation is simple: without buried cable without rectifier, directly to the street lamp installed in the lamp or light source connected to the original nested shell.  
+12, excellent heat control: summer temperature control at around 45 degrees, and the use of passive cooling mode.  
+13, the quality is reliable: the circuit power supply all uses the high quality components, each LED has the independent overcurrent protection, does not need to worry about the damage.  
+14, color uniformity: without lens, not to increase the brightness and uniform light color so as to ensure no sacrifice, iris color uniformity.  
+According to the above principle, the energy saving effect of high power LED lamp significantly, instead of high pressure sodium lamp can save more than 60%.  
+Maintenance cost is low: compared with the traditional street lamp, LED street light maintenance costs are very low, after comparison, less than 2 years to recover the full cost of inputs.
