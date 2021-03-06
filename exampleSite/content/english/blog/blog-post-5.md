@@ -4,7 +4,7 @@ date: 2019-07-06T15:27:17.000+06:00
 bg_image: ''
 description: LED Street Light
 image: "/images/led-street-light.jpg"
-author: ''
+author: Eric Cao
 categories:
 - LED lamp
 tags:
