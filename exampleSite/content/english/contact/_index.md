@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Contact Us
 bg_image: images/lighting-pole2.jpg
 description: Your Enquiry, Our Service
 
